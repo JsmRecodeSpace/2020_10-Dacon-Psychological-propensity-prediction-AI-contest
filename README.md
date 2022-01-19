@@ -1,6 +1,5 @@
-# 2020_10-Dacon-Psychological-propensity-prediction-AI-contest
 
-# 2020_10 심리 성향 예측 AI 경진대회 
+# 2020_10 데이콘 심리 성향 예측 AI 경진대회 
 
 
 #### 1.배경  
